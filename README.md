@@ -21,7 +21,7 @@ A simple command-line number guessing game written in Python.
 ```bash
 # clone or download the project, then
 cd number_guessing_game
-```
+
 # it's a good idea to create a virtual environment first:
 python -m venv .venv
 source .venv/bin/activate   # or `.\.venv\Scripts\activate` on Windows
